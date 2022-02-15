@@ -1,0 +1,9 @@
+:root {
+    --color-text: #666;
+    --color-high-text:  #1D8FE1;
+    --color-tint: #1D8FE1;
+  }  
+body{
+    background-color: #f7f8fa;
+    font-size: 16px;
+}
